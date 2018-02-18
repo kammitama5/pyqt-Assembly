@@ -1,5 +1,5 @@
 # pyqt-Assembly
-Assembly Calculator
+Simple Assembly Calculator using PyQt interface
 
 ## Assembly Language Calculator Interface 
 - ADR a, b (adress value of b into a)
